@@ -24,3 +24,9 @@ commit.
 This could be anything from new features to different UI
 changes. Honestly, I'm going to have to use it more in
 order to really find out how it needs to be utilized. 
+
+// How do the diagrams help you visualize the branch structure?
+As a very visual person, drawing out the diagrams is very
+helpful. A lot of people use the GUI Git clients because of
+this very reason. The text in the terminal is good, but a
+graphical representation is a lot easier for average joe.

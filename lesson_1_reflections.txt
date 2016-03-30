@@ -1,0 +1,34 @@
+cd ~                          	# change directories to your home directory
+mkdir version-control         	# make version-control directory
+cd version-control            	# go to version-control directory
+mkdir reflections             	# create reflections directory
+cd reflections                	# go to reflections directory
+subl lesson_1_reflections.txt 	# launch sublime with file called lesson_1_reflections.txt
+
+// FIRST REFLECTION
+Learning command line and git was on my list for
+a while so I am glad that this course was suggested.
+I've used the GUIs for GitHub and others with little
+real success, so I am glad to know how to do it all
+from pretty much any machine via terminal.
+
+// SECOND REFLECTION
+Uhhh ok?
+
+// MANUAL COMMITS
+Automation is good in several instances, but when its
+based on something that is complicated and situational
+as a code commit, I would prefer to do it manually. As
+someone who saves a lot already, commiting when a
+particular hudle is jumped or progress is made that
+stands on its own is better than some arbitrary rule.
+
+// MULTI FILE COMMITS
+Unless files are tied together in some way, multi file
+commits aren't really necessary.
+
+// HOW DO YOU WANT TO USE GIT
+Regardless of what I want to use Git for, its the industry
+standard VC software so I need to use it. Learning to do all
+of this via terminal is pretty great. It also is pushing me
+to learn terminal as well which is awesome. Hurray.

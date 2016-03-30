@@ -35,3 +35,10 @@ graphical representation is a lot easier for average joe.
 The branches merged added color and a new functionality 
 to the game. The diagram helps for those of us who like
 visual representations for things.
+
+// What are the pros and cons of Git's automatic merging vs. always doingmerges manually?
+If things are pretty cut and dry, Git's automatic merging
+is pretty fantastic. When things get muddy, its a little 
+more complicated, but having the older and new code next to
+each other for comparison is super helpful. I am wondering
+how this all will work together with the XCode.

@@ -30,3 +30,8 @@ As a very visual person, drawing out the diagrams is very
 helpful. A lot of people use the GUI Git clients because of
 this very reason. The text in the terminal is good, but a
 graphical representation is a lot easier for average joe.
+
+// What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The branches merged added color and a new functionality 
+to the game. The diagram helps for those of us who like
+visual representations for things.

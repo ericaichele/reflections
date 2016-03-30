@@ -1,0 +1,13 @@
+// What happens when you initialize a repository? Why do you need to do it?
+It sets up the repository so you can start using Git.
+If you don't do it, it won't track your changes. It's
+kind of a huge step and necessary.
+
+// How is the staging area different from the workng directory and the repository? What value do you think each offers?
+This mirrors the development process. The working
+directory is where you get the initial files set up
+to be processed. The staging area is where you start
+working on the items and then you move them onto the
+repository so that others can see the work you've
+done. It's necessary to have a hierarchy in order
+for everything to be organized.

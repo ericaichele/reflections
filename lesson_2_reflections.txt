@@ -11,3 +11,11 @@ working on the items and then you move them onto the
 repository so that others can see the work you've
 done. It's necessary to have a hierarchy in order
 for everything to be organized.
+
+// How can you use the staging area to make sure you have one commit per logical change?
+It's pretty much that you only add the files that are
+associated with the one particular change that you
+are trying to commit. If you worked on 4 files and 
+only 2 of them are for a particular feature, only
+add those two files to the staging area for that
+commit.

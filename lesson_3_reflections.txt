@@ -9,3 +9,7 @@ There are three reasons for this:
 The Git Repo might not have the most recent code and might just
 be for public facing versions.
 
+// Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork - Used when you want to take someone else's code and adjust it to your tastes.
+Clones - Used when you need to either pull a repo from GitHub or when you want to make a whole new version of a project.
+Branches - When you write code that will eventually make it back into the main branch of the project. 

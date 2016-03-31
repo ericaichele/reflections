@@ -17,3 +17,8 @@ Branches - When you write code that will eventually make it back into the main b
 // What is the benefit of having a copy of the last known state of the remote stored locally?
 It's always good to have a copy of anything just for
 reference sake, but that's just me.
+
+// How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would probably use Dropbox and only work on the project
+one person at a time, which would be horrible. Or pass a 
+thumb drive around the office with the code.

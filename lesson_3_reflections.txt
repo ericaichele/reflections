@@ -1,0 +1,6 @@
+// When would you want to use a remote repository rather than keeping all your work local?
+There are three reasons for this:
+1. Work collaboratively with a team
+2. Backup your work
+3. Code Portfolio
+4. Share the love
